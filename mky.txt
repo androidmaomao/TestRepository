@@ -2,3 +2,5 @@ a day on ,not a day off!
 made by mike 
 ************
 merge branch1 合并分支
+
+master 新增master分支 :冲突问题测试
